@@ -1,1 +1,1 @@
-# DynamicPricing
+This is a Python and ML project using a Random Forest model to set dynamic price of pares based on real time demand and according to constantly changing variables such as number of riders (those requesting a ride), number of drivers, estimate ride time to destination and type of vehicle.
