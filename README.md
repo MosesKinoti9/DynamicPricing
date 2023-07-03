@@ -1,1 +1,1 @@
-# DynamicPricing
+This project makes use of the dynamic pricing technique to be able to create flexible rates for goods and services based on real-time data. The new prices were predicted using Python and a regression model in response to variable changes.
